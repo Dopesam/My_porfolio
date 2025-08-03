@@ -1,4 +1,4 @@
-# 🌐 Samuel M. — Personal Portfolio
+# 🌐 Samuel Musili — Personal Portfolio
 Welcome to my personal web portfolio, designed to showcase my passion for clean code.
 ## 🔮 Features
 
